@@ -1,7 +1,3 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,10 +31,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-div[data-testid="rings-loading"]{
-  top: 30%;
-  left: 35%;
-  position: absolute;
 }
